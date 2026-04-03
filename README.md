@@ -2,6 +2,20 @@
 
 ## Overview
 This project presents an interactive Power BI dashboard analyzing Superstore sales data to uncover insights on revenue, profitability, customer behavior, and regional performance.
+## Dashboard Overview
+![Overview](1_dashboard_overview.png)
+
+## Key KPIs
+![KPI](2_kpi_summary.png)
+
+## Sales & Profit Trends
+![Trends](3_sales_profit_trends.png)
+
+## Category Insights
+![Category](4_category_analysis.png)
+
+## Regional Analysis
+![Region](5a_regional_analysis_with_map.png)
 
 ## Tools Used
 - Power BI  
