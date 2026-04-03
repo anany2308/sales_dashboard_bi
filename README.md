@@ -25,4 +25,15 @@ This project presents an interactive Power BI dashboard analyzing Superstore sal
 ## Dashboard Preview
 ![Dashboard](dashboard_overview.png)
 
-## 📁 Project Structure
+## Project Structure
+Superstore-Sales-Dashboard/
+- dashboard_overview.png
+- kpi_summary.png
+- sales_profit_trends.png
+- category_analysis.png
+- regional_analysis.png
+- dashboard.pbix
+- README.md
+
+## Conclusion
+This dashboard provides actionable insights to improve pricing strategies, optimize product performance, and target high-value customer segments.
