@@ -36,9 +36,6 @@ This project presents an interactive Power BI dashboard analyzing Superstore sal
 - Higher discounts negatively impact profitability  
 - A few sub-categories drive the majority of total sales  
 
-## Dashboard Preview
-![Dashboard](dashboard_overview.png)
-
 ## Project Structure
 Superstore-Sales-Dashboard/
 - dashboard_overview.png
